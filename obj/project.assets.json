@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\Итоговая контрольная работа\\Task\\Task.csproj",
+      "projectUniqueName": "D:\\GeekBrains\\Итоговая контрольная работа\\Task\\Final_control_work\\Task.csproj",
       "projectName": "Task",
-      "projectPath": "D:\\GeekBrains\\Итоговая контрольная работа\\Task\\Task.csproj",
+      "projectPath": "D:\\GeekBrains\\Итоговая контрольная работа\\Task\\Final_control_work\\Task.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrains\\Итоговая контрольная работа\\Task\\obj\\",
+      "outputPath": "D:\\GeekBrains\\Итоговая контрольная работа\\Task\\Final_control_work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
